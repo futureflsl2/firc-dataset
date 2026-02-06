@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角路面异常城市道路裂缝泥堆坑洞垃圾积水检测数据集VOC+YOLO格式1274张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZybA==">下载</a></td></tr>
+<tr><td>红外热成像图像加油站液体泄漏工厂液体泄漏识别数据集labelme格式2612张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5dpaA==">下载</a></td></tr>
+<tr><td>智慧医疗牙齿疾病龋齿检测数据集VOC+YOLO格式2250张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5dpZg==">下载</a></td></tr>
+<tr><td>智慧农业蓝莓成熟度检测数据集VOC+YOLO格式926张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5Zyaw==">下载</a></td></tr>
+<tr><td>红外热成像图像鸟家禽检测数据集VOC+YOLO格式995张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZyZw==">下载</a></td></tr>
+<tr><td>无人机视角道路坑洞检测数据集VOC+YOLO格式58张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZyZg==">下载</a></td></tr>
+<tr><td>夜间动物检测数据集VOC+YOLO格式10344张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZxbA==">下载</a></td></tr>
 <tr><td>智慧建筑室内房屋结构识别分割数据集labelme格式2111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5sZA==">下载</a></td></tr>
 <tr><td>智慧农业番茄西红柿识别分割数据集labelme格式2218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5paw==">下载</a></td></tr>
 <tr><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
@@ -1909,4 +1916,5 @@
 <tr><td>昆虫检测数据集VOC+YOLO格式1873张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/136741747">详情</a></td><td><a href="info.md">下载</a></td></tr>
 </tbody>
 </table>
+
 
